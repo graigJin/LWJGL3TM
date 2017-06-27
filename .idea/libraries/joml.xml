@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="joml">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Coding/Frameworks/joml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/Coding/Frameworks/joml" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/Coding/Frameworks/joml" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Coding/Frameworks/joml" recursive="false" type="SOURCES" />
+  </library>
+</component>
